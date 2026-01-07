@@ -1,2 +1,2 @@
 Hi 
-echo "User Name: "$(whoami)"
+echo "User Name: $(whoami)"
